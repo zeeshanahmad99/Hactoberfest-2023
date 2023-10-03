@@ -1,0 +1,29 @@
+
+body{
+    background-color: bisque;
+    text-align: center;
+}
+h1{
+    background-color: aqua;
+    color: rgb(226, 43, 58);
+}
+h2{
+    background-color: cornflowerblue;
+    color:rgb(36, 3, 31);
+}
+h3{
+    background-color: rgb(43, 82, 4);
+    color: rgb(205, 210, 210);
+}
+h4{
+    background-color: rgb(242, 141, 9);
+    color:rgb(6, 24, 96);
+}
+h5{
+    background-color: rgb(224, 117, 139);
+    color: rgb(21, 234, 21);
+}
+h6{
+    background-color: darkmagenta;
+    color: cyan;
+}
